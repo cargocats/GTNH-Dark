@@ -53,3 +53,4 @@ A big thank you to [TrappedCourage](https://github.com/TrappedCourage) for their
 This resource pack uses and adapts some bits and pieces of works from the following projects:
 - [Unity](https://github.com/Unity-Resource-Pack/Unity/tree/1.7.10) by [CyanideX](https://github.com/CyanideX)
 - [Zedtech-New-Horizons](https://github.com/FyreofShadow/zedtech-new-horizons) by [Zerrens](https://forum.industrial-craft.net/core/user/12229-zerrens/), [MCTian-mi](https://github.com/MCTian-mi) and [FyreofShadow](https://github.com/FyreofShadow)
+- [Default-Dark-Mode](https://github.com/nebuIr/Default-Dark-Mode) by [nebuIr](https://github.com/nebuIr)
