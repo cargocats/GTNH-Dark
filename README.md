@@ -1,21 +1,9 @@
 # Scuffed-GTNH-Dark
-GT New Horizons: Dark theme for 2.5.1
+GT New Horizons: Dark theme for 2.6.1
 
 Disclaimer: The current state of this resource pack is in Alpha and doesn't cover all GUIs, but hopefully the most essential ones. 
 
 Feedback is very much encouraged, as well as texturing requests for the remaining mods. For that or anything else, you can find me on the GTNH-Discord @ Albi.
-
-## Recommended Resource Packs
-This UI Resource Pack is developed by keeping compatibility with Unity and ZedTech in mind, which is why using the following resource packs is recommended:
-- [Unity](https://github.com/Unity-Resource-Pack/Unity/tree/1.7.10)
-- [Zedtech-New-Horizons](https://github.com/FyreofShadow/zedtech-new-horizons)
-- [Unity IC2-Backport](https://www.curseforge.com/minecraft/texture-packs/unity-ic2-1-7-10-backport/files/2377036)
-
-Make sure the load order in Minecraft is as follows:
-1. Scuffed-GTNH-Dark
-2. Zedtech-New-Horizons
-3. Unity IC2-Backport
-4. Unity
 
 ## Texturing progress
 <details>
