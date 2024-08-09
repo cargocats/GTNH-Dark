@@ -33,7 +33,7 @@ def batch_recolor(directory, output_directory, color_mappings):
 
             print(f"Processed {filename} and saved to {output_path}")
 
-input_directory = "adventurebackpack/textures/gui"
+input_directory = "./input"
 
 output_directory = "./output"
 color_mappings = {
@@ -58,4 +58,4 @@ color_mappings = {
     (85, 85, 85): (34, 34, 34, 255)
 }
 
-batch_recolor("../assets/" + input_directory, output_directory, color_mappings)
+batch_recolor(input_directory, output_directory, color_mappings)
