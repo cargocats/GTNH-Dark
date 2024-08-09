@@ -33,10 +33,12 @@ def batch_recolor(directory, output_directory, color_mappings):
 
             print(f"Processed {filename} and saved to {output_path}")
 
-input_directory = "avaritia/textures/gui"
+input_directory = "adventurebackpack/textures/gui"
 
 output_directory = "./output"
 color_mappings = {
+
+    # Map Old Dark to New Dark
     (24, 32, 37): (79, 79, 79, 255),
     (27, 40, 47): (102, 102, 102, 255),
     (19, 22, 23): (34, 34, 34, 255),
@@ -45,7 +47,15 @@ color_mappings = {
     (31, 43, 49): (79, 79, 79, 255),
     (24, 29, 30): (34, 34, 34, 255),
 
-    (21, 25, 27): (56, 56, 56, 255)
+    (21, 25, 27): (56, 56, 56, 255),
+
+    # Vanilla Light to Dark
+
+    (255, 255, 255): (102, 102, 102, 255),
+    (198, 198, 198): (79, 79, 79, 255),
+    (139, 139, 139): (56, 56, 56, 255),
+    (55, 55, 55): (22, 22, 22, 255),
+    (85, 85, 85): (34, 34, 34, 255)
 }
 
 batch_recolor("../assets/" + input_directory, output_directory, color_mappings)
