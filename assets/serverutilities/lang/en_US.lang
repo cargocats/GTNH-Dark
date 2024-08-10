@@ -1,2 +1,1 @@
-sidebar_button.serverutilities.trash_can=§7Trash Can
-sidebar_button.serverutilities.trash_can.tooltip=§7Opens a trash can. Items from it disappear after you close the GUI, but will remain there as long as it's open
+key.serverutilities.trash=§fTrash Can
