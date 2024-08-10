@@ -3,22 +3,26 @@ import os
 from PIL import Image
 
 def replace_color(image, color_mappings):
+    image = image.convert("RGBA")
     data = image.load()
 
     for y in range(image.size[1]):
         for x in range(image.size[0]):
             pixel_data = data[x, y]
+    
             if isinstance(pixel_data, tuple):
                 if len(pixel_data) == 4:
                     r, g, b, a = data[x, y]
                 else:
                     r, g, b = data[x, y]
-                    a = 0
+                    a = 255
             else:
                 continue
 
             for target_color, replacement_color in color_mappings.items():
-                if (r == target_color[0] and g == target_color[1] and b == target_color[2] and a == 255):
+                if (r == target_color[0] and
+                    g == target_color[1] and
+                    b == target_color[2]) and a == 255:
                     data[x, y] = replacement_color
 
     return image
