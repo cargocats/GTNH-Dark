@@ -7,7 +7,7 @@ class GregTechRenamer:
 	filename = ''
 
 	def run(self):
-		if(os.path.exists('/home/ceg/Downloads/Github/GTNH-Dark/designHelp/batch/config.ini')):
+		if(os.path.exists('')):
 			config = ConfigParser()
 			config.read('config.ini', encoding = 'utf8')
 			if config.has_section('SEARCH') and config.has_option('SETTINGS', 'toReplace') and config.has_option('SETTINGS', 'replacement'):
