@@ -7,10 +7,9 @@ class GregTechRenamer:
 	filename = ''
 
 	def run(self):
-		if(os.path.exists('config.ini')):
+		if(os.path.exists('/home/ceg/Downloads/Github/GTNH-Dark/designHelp/batch/config.ini')):
 			config = ConfigParser()
 			config.read('config.ini', encoding = 'utf8')
-
 			if config.has_section('SEARCH') and config.has_option('SETTINGS', 'toReplace') and config.has_option('SETTINGS', 'replacement'):
 					stringsToReplace = json.loads(config.get('SEARCH','keywords'))
 					filename  = config['SETTINGS']['filename']
@@ -20,6 +19,9 @@ class GregTechRenamer:
 			else:
 				print("Not all variables were set")
 				return
+		else:
+			print("config.ini doesn't exist!")
+			return
 
 		fileContent = []
 		with open(filename, 'rt', encoding = 'utf8') as readFile:
