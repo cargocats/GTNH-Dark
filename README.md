@@ -3,7 +3,7 @@ GT New Horizons: Dark theme for 2.6.1
 
 **If you want to see pictures of the resource pack, checkout the IMAGES.md file**
 
-Disclaimer: The current state of this resource pack is in Alpha and doesn't cover all GUIs, but hopefully the most essential ones. 
+Disclaimer: The current state of this resource pack is in Alpha and doesn't cover all GUIs, but hopefully the most essential ones. Also, not everything can be changed by a resource pack.
 
 Feedback is very much encouraged, as well as texturing requests for the remaining mods. For that or anything else, you can find me on the GTNH-Discord @ Albi.
 
