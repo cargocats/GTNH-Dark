@@ -20,7 +20,6 @@ jobs:
             /*designHelp/*
             /*psd/*
             /*xcf/*
-            /*assets/betterp2p/*
       - name: Generate Changelog
         id: changelog
         uses: requarks/changelog-action@v1.10.0
