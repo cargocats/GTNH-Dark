@@ -5,7 +5,7 @@ GT New Horizons: Dark theme for 2.6.1
 
 Disclaimer: The current state of this resource pack is in Alpha and doesn't cover all GUIs, but hopefully the most essential ones. Also, not everything can be changed by a resource pack.
 
-Feedback is very much encouraged, as well as texturing requests for the remaining mods. For that or anything else, you can find me on the GTNH-Discord @ Albi.
+Feedback is very much encouraged, as well as texturing requests for the remaining mods. For that or anything else, you can find me on the GTNH-Discord @ cargocat.
 
 ## Texturing progress
 <details>
@@ -50,6 +50,7 @@ Feedback is very much encouraged, as well as texturing requests for the remainin
 Beta Roadmap: TBD
 
 # Credits
+A special thanks to [Albi](https://github.com/Flanisch) for the original GTNH-Dark resource pack!
 A big thank you to [TrappedCourage](https://github.com/TrappedCourage) for their contributions.
 
 This resource pack uses and adapts some bits and pieces of works from the following projects:
