@@ -51,6 +51,7 @@ Beta Roadmap: TBD
 
 # Credits
 A special thanks to [Albi](https://github.com/Flanisch) for the original GTNH-Dark resource pack!
+
 A big thank you to [TrappedCourage](https://github.com/TrappedCourage) for their contributions.
 
 This resource pack uses and adapts some bits and pieces of works from the following projects:
