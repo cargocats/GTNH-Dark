@@ -1,0 +1,70 @@
+# ==== GUI AND TOOLTIPS ====
+
+gendustry.label.template.crafting=§fGenetic Samples can be added to a Template. Combine them in any crafting table. Multiple samples can be added at once.
+
+gendustry.label.charges=§fCharges: %s
+gendustry.label.select=§fSelect:
+gendustry.label.status=§fStatus: %s
+gendustry.label.control=§fControl: %s
+
+gendustry.label.breeding=§fBreeding
+gendustry.label.working=§fWorking
+gendustry.label.maxinstall=§fMaximum Installed:
+gendustry.label.temperature=§fTemperature: %s
+gendustry.label.humidity=§fHumidity: %s
+gendustry.label.energy=§fEnergy Required: %s %s/t
+gendustry.label.lifespan=§fLifespan Modifier: %s
+gendustry.label.flowering=§fFlowering Chance: %s
+gendustry.label.production=§fProduction Modifier: %s
+gendustry.label.territory=§fTerritory: %s
+
+gendustry.label.erase=§fPlace in furance to erase genetic content
+gendustry.label.recipes=§fClick to see recipes
+gendustry.label.consume=§fConsume chance: %s%%
+gendustry.label.mutatron.death=§fDeath chance (ignoble): %s%%
+gendustry.label.mutatron.degrade=§fDegrade chance (pristine): %s%%
+
+gendustry.label.mod.automated=§f* Automation
+gendustry.label.mod.biome=§f* Biome Override: %s
+gendustry.label.mod.sealed=§f* Rain Protection
+gendustry.label.mod.selflighted=§f* Internal Lighting
+gendustry.label.mod.sky=§f* Open Sky Simulation
+gendustry.label.mod.energy=§f* Energy Consumption
+gendustry.label.mod.lifespan=§f* Lifespan
+gendustry.label.mod.flowering=§f* Flowering and Pollination
+gendustry.label.mod.geneticDecay=§f* Genetic Decay
+gendustry.label.mod.mutation=§f* Mutation Chance
+gendustry.label.mod.production=§f* Production
+gendustry.label.mod.territory=§f* Territory
+gendustry.label.mod.sieve=§f* Pollen Collection
+gendustry.label.mod.temperature=§f* Temperature
+gendustry.label.mod.humidity=§f* Humidity
+
+gendustry.label.sample.rootBees=§fTaken from a Bee
+gendustry.label.sample.rootTrees=§fTaken from a Sapling
+gendustry.label.sample.rootButterflies=§fTaken from a Butterfly
+gendustry.label.sample.rootFlowers=§fTaken from a Flower
+
+gendustry.label.template.rootBees=§fCan be applied to a Bee
+gendustry.label.template.rootTrees=§fCan be applied to a Sapling
+gendustry.label.template.rootButterflies=§fCan be applied to a Butterfly
+gendustry.label.template.rootFlowers=§fCan be applied to a Flower
+gendustry.label.template.blank=§fGene Samples can be added
+gendustry.label.template.missing=§fMissing
+gendustry.label.template.chromosomes=§f%s/%s Chromosomes
+
+gendustry.rsmode.always=§fAlways ON
+gendustry.rsmode.never=§fDisabled
+gendustry.rsmode.rs_on=§fEnable on redstone
+gendustry.rsmode.rs_off=§fDisable on redstone
+
+gendustry.label.items=§f%s Items
+
+gendustry.label.shift=§f<Press SHIFT for more info>
+
+gendustry.cover.label=§fCover: %s
+
+gendustry.cover.error.message=§fWill emit redstone signal if %s is detected
+gendustry.cover.error.hint=§f(Click cover with empty hand to change)
+gendustry.cover.error.any=§fAny Error
+gendustry.cover.error.none=§fNo Error
